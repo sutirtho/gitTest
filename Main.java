@@ -5,8 +5,10 @@ class Main {
         System.out.println("Hello, one new2!");
 
         System.out.println("Hello, there!");
-	System.out.println("Hello, there!");
-  
+
+  	System.out.println("Hello, there2!");
+
+ 
 
 }
 
