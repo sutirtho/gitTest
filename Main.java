@@ -3,6 +3,7 @@ class Main {
 
         System.out.println("Hello, 1!");
         System.out.println("Hello, there!");
+  	System.out.println("Hello, there2!");
   
 
 }
