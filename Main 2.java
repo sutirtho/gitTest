@@ -21,4 +21,9 @@ public void newMethod()
 {
 System.out.println("Hello, This is a newly added method2!");
 	}
+
+public void newMethod3()
+{
+System.out.println("Hello, This is a newly added method3!");
+	}
 }
